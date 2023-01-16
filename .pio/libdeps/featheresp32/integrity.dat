@@ -1,0 +1,13 @@
+ayushsharma82/AsyncElegantOTA@^2.2.5
+gyverlibs/UnixTime@^1.1
+me-no-dev/AsyncTCP@^1.1.1
+bblanchon/ArduinoJson@^6.17.3
+adafruit/RTClib@^1.12.4
+sparkfun/SparkFun External EEPROM Arduino Library@^1.0.3
+olikraus/U8g2@^2.28.8
+davetcc/IoAbstraction@^2.0.3
+davetcc/TaskManagerIO@^1.2.3
+chrisjoyce911/esp32FOTA@^0.1.6
+neu-rah/streamFlow@0.0.0-alpha+sha.bf16ce8926
+ricmoo/QRCode@^0.0.1
+https://github.com/me-no-dev/ESPAsyncWebServer.git
